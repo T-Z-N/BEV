@@ -1,1 +1,12 @@
-
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+authors:
+- family-names: "Tüzün"
+  given-names: "Alican"
+  orcid: "https://orcid.org/0009-0009-8017-5487"
+  email: "alican.tuezuen@fh-steyr.at"
+  affiliation: "Josef Ressel Centre for Data-Driven Business Model Innovation, University of Applied Sciences Upper Austria & School of Informatics, Aristotle University of Thessaloniki"
+title: "BEAR"
+version: 1.0.0
+date-released: 2025-03-17
+url: "https://github.com/T-Z-N/BEAR"
