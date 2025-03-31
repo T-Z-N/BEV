@@ -2,4 +2,5 @@
 Business Ecosystem VIsualizer
 
 
-To be organized
+
+<img src="figures/BEV.png" style="max-width: 100%; height: auto;" />
