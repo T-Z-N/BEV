@@ -3,4 +3,4 @@ Business Ecosystem VIsualizer
 
 
 
-<img src="figures/BEV.png" style="max-width: 100%; height: auto;" />
+<img src="gif/BEV.gif" style="max-width: 100%; height: auto;" />
